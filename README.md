@@ -20,6 +20,10 @@ npm i or npm install
 
 Feel free to clone the repository but please do not push straight to the main branch without first creating a new branch then creating a new pull request.
 
+![alt text](./assets/Employee-Tracker.gif)
+
+Walkthrough Video: https://drive.google.com/file/d/1-VA4yimbhbBjic5-IDAM1lYnFS0F_Qj7/view
+
 ## License
 
 This project is licensed under the MIT license.
